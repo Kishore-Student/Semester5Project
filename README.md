@@ -28,7 +28,7 @@ This project leverages **PokeEnv** and **Stable-Baselines3 (SB3)** for training,
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/Kishore-Student/RL_bot_for_Pokemon_Battles.git
+git clone https://github.com/kishore-1754/RL_bot_for_Pokemon_Battles.git
 cd RL_bot_for_Pokemon_Battles
 pip install -r requirements.txt
 cd BackEnd
@@ -50,7 +50,7 @@ This project uses the following third-party libraries, which are subject to thei
 
 | Name       | GitHub Profile | Contributions |
 |------------|----------------|---------------|
-| Kishore    | [Kishore-Student](https://github.com/Kishore-Student) | RL agent setup and coding; project environment setup; UI design; plotting; logging |
+| Kishore    | [Kishore](https://github.com/kishore-1754) | RL agent setup and coding; project environment setup; UI design; plotting; logging |
 | Manjunath  | [Manjunathar415](https://github.com/Manjunathar415) | UI design; documentation |
 
 
